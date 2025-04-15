@@ -1,0 +1,10 @@
+{
+    "folders": [
+		{
+			"path": "../../Resume"
+		}
+	],
+    "settings": {
+        "liveServer.settings.port": 5501
+    }
+}
